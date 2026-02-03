@@ -169,12 +169,24 @@ S is strobe.  When strobe is high the output is always low,
       <p2 x="240" y="240"/>
     </wire>
     <wire>
+      <p1 x="120" y="0"/>
+      <p2 x="200" y="0"/>
+    </wire>
+    <wire>
       <p1 x="240" y="-20"/>
       <p2 x="280" y="-20"/>
     </wire>
     <wire>
+      <p1 x="180" y="-20"/>
+      <p2 x="200" y="-20"/>
+    </wire>
+    <wire>
       <p1 x="-120" y="260"/>
       <p2 x="40" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="120" y="20"/>
+      <p2 x="180" y="20"/>
     </wire>
     <wire>
       <p1 x="-80" y="40"/>
@@ -245,8 +257,12 @@ S is strobe.  When strobe is high the output is always low,
       <p2 x="200" y="220"/>
     </wire>
     <wire>
-      <p1 x="200" y="-40"/>
+      <p1 x="200" y="0"/>
       <p2 x="200" y="80"/>
+    </wire>
+    <wire>
+      <p1 x="200" y="-40"/>
+      <p2 x="200" y="-20"/>
     </wire>
     <wire>
       <p1 x="200" y="220"/>
@@ -301,16 +317,24 @@ S is strobe.  When strobe is high the output is always low,
       <p2 x="80" y="80"/>
     </wire>
     <wire>
+      <p1 x="180" y="-20"/>
+      <p2 x="180" y="20"/>
+    </wire>
+    <wire>
       <p1 x="-120" y="60"/>
       <p2 x="-120" y="260"/>
     </wire>
     <wire>
-      <p1 x="120" y="-40"/>
-      <p2 x="120" y="80"/>
-    </wire>
-    <wire>
       <p1 x="280" y="-80"/>
       <p2 x="280" y="-20"/>
+    </wire>
+    <wire>
+      <p1 x="120" y="-40"/>
+      <p2 x="120" y="0"/>
+    </wire>
+    <wire>
+      <p1 x="120" y="20"/>
+      <p2 x="120" y="80"/>
     </wire>
   </wires>
   <measurementOrdering/>
